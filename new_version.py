@@ -63,7 +63,7 @@ class VerificadorCablesMPO:
         # --- Variables para la actualización remota ---
         self.LOCAL_VERSION = "1.0.0"
         self.VERSION_URL = "https://raw.githubusercontent.com/ZombPool/P-9.-Verificaci-n-de-datos-MPO-ILRL-GEO/refs/heads/main/version.txt"
-        self.UPDATE_URL = "URL-DE-DESCARGA-DEL-EJECUTABLE"
+        self.UPDATE_URL = "https://raw.githubusercontent.com/ZombPool/P-9.-Verificaci-n-de-datos-MPO-ILRL-GEO/refs/heads/main/new_version.py"
         # --- Fin de variables de actualización ---
 
     def create_main_window(self):
